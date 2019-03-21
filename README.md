@@ -80,6 +80,7 @@ apn – Access Point Name of the carrier used
 username – Username for the APN if any
 password – Password for the APN if any
 ```
+
 and copy this file into /datatx.
 7. copy QCA4020_MUSIC_FTV.cert.pem to /datatx.
 8. copy QCA4020_MUSIC_FTV.cert.private to /datatx.
